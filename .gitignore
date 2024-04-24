@@ -1,0 +1,9 @@
+# Ignore test files
+test.hocr
+test.pdf
+test.xml
+
+repository/
+
+# Virtual environment
+tesseract-project/
